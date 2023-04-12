@@ -1,0 +1,20 @@
+#IDEA
+# idea ignore
+.idea/
+*.ipr
+*.iml
+*.iws
+# vscode
+.vscode
+
+# temp ignore
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+.jython_cache/
+
+# system ignore
+.DS_Store
+Thumbs.db
