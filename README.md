@@ -6,3 +6,4 @@
 
 ## Bash
 - [Bash教程](bash/tutorial.md)
+- [Bash收藏](bash/list.md)
