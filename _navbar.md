@@ -2,4 +2,5 @@
 - [<span class="iconfont icon-icon_fabu"></span> 导航](README)
   - [👨🏻‍💻](README?id=👨🏻‍💻)
   - [Rust](README?id=Rust)
+  - [Bash](README?id=Bash)
 - [收藏](about/collects.md)

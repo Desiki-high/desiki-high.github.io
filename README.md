@@ -4,4 +4,5 @@
 ## Rust 
 - [初步认识Rust](rust/introduce.md)
 
-![](./_media/img/test.jpg)
+## Bash
+- [Bash教程](bash/tutorial.md)
