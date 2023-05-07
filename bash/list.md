@@ -20,3 +20,30 @@ find_extensions=$(echo $find_extensions | sed 's/^ -o //')
 
 eval "find . ${find_extensions#* } | xargs wc -l"
 ```
+### 操作系统上机实验一(助教)
+```bash
+#!/usr/bin/env bash
+
+if [ -d osdir ];then
+ rm -rf osdir;
+fi
+
+mkdir osdir;cd osdir;
+
+free -h > f1;
+
+touch f2;chmod +x f2;
+realpath f2 > f2;
+
+ls -lh > f3;
+
+echo "#include<stdio.h>
+
+int main(){
+    printf(\"%s\n\",\"Hello Wold\");
+    return 0;
+}
+" > hello.c
+
+gcc hello.c -o hello; ./hello
+```
