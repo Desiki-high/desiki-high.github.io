@@ -7,3 +7,6 @@
 ## Bash
 - [Bash教程](bash/tutorial.md)
 - [Bash收藏](bash/list.md)
+
+## LeetCode
+- [2023.09.07](leetcode/2023_9_7.md)
