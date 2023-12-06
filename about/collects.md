@@ -1,6 +1,8 @@
 
 > 你有一个苹果，我有一个苹果，我们彼此交换，每人还是一个苹果；你有一种思想，我有一种思想，我们彼此交换，每人可拥有两种思想。
 
+## 📷
+[GLCC](https://ccms.ccf.org.cn/ccf/static/ofd/8c98ffdd50a648d0aa29abb39909b4b8/1.png?code=8rrz4doc1d000000000)
 
 ##  🥂 友情链接
 <div class="friends">
